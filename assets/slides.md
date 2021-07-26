@@ -106,6 +106,14 @@ layout: center
 layout: center
 ---
 
+# MVP Workflow
+
+<!-- Importance of planning -->
+
+---
+layout: center
+---
+
 # Next Steps
 
 * Confirm Group Slack Channel
