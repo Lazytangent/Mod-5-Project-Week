@@ -7,6 +7,8 @@ aspectRatio: '16/10'
 # React Project Kickoff
 
 ---
+layout: center
+---
 
 # Expectations
 
@@ -31,12 +33,16 @@ aspectRatio: '16/10'
 * Yelp
 
 ---
+layout: center
+---
 
 # Documentation
 
 * Database Schema
 * MVPs List
 
+---
+layout: center
 ---
 
 # Requirements
@@ -48,6 +54,8 @@ aspectRatio: '16/10'
 * Backend: Express, Sequelize
 
 ---
+layout: center
+---
 
 # Daily Standup
 
@@ -55,6 +63,8 @@ aspectRatio: '16/10'
 * Plan for the day
 * Any blockers
 
+---
+layout: center
 ---
 
 # Question Asking
@@ -74,8 +84,10 @@ layout: center
 ---
 
 # Example
-![question-example](https://res.cloudinary.com/dk7yhcz2v/image/upload/v1627335590/app_academy/good-q_yrolr6.png)
+<img src="https://res.cloudinary.com/dk7yhcz2v/image/upload/v1627335590/app_academy/good-q_yrolr6.png" />
 
+---
+layout: center
 ---
 
 # Common Roadblocks
@@ -85,9 +97,13 @@ layout: center
 * Not reaching out for help
 
 ---
+layout: center
+---
 
 # Week Road Map
 
+---
+layout: center
 ---
 
 # Next Steps
