@@ -1,3 +1,9 @@
+---
+background: https://source.unsplash.com/collection/94734566/1920x1080
+colorSchema: 'dark'
+aspectRatio: '16/10'
+---
+
 # React Project Kickoff
 
 ---
@@ -64,10 +70,11 @@
 Why?
 
 ---
+layout: center
+---
 
 # Example
-
-![question-example]
+![question-example](https://res.cloudinary.com/dk7yhcz2v/image/upload/v1627335590/app_academy/good-q_yrolr6.png)
 
 ---
 
@@ -88,5 +95,3 @@ Why?
 * Confirm Group Slack Channel
 * Create documentation for Wiki (inform advisors)
 * CSS for landing and auth/Research clone and tools while waiting for approval
-
-[question-example]: ./assets/good-q.png
