@@ -31,7 +31,7 @@ copy of the scorecard.
 
 ![scorecard-make-a-copy]
 
-## 2. Share the scorecard
+## 2. Share the scorecard and 3. Update share settings
 
 In the upper right, click on the `Share` button by your profile image or icon.
 Click anywhere in the `Get Link` section to have it expand. Click on the
@@ -45,8 +45,22 @@ to `Viewer` and change that to `Editor`.
 
 ![scorecard-update-link-settings]
 
+## 4. Share the scorecard with your project advisors
+
+Now is a good time to share your scorecard with your project advisors. You can
+always come back to this Google Sheet to update things as they change and your
+ideas for your project become more concrete.
+
+## 5. Fill out the purple areas
+
+Before project week comes to a close, be sure to come back and fill out the
+purple areas on the React Sheet.
+
+![scorecard-react-sheet]
+
 [link]: https://docs.google.com/spreadsheets/d/1PyE9n_ElA_POUO15HIu-V4VscU_qvvroyTrdfQRZj8o/edit#gid=432232862
 [scorecard-make-a-copy]: ./assets/scorecard-make-a-copy.png
 [scorecard-share-button]: ./assets/scorecard-share-button.png
 [scorecard-get-link]: ./assets/scorecard-get-link.png
 [scorecard-update-link-settings]: ./assets/scorecard-update-link-settings.png
+[scorecard-react-sheet]: ./assets/scorecard-react-sheet.png
