@@ -11,5 +11,5 @@
     editor for the fastest result.
 
 [Database Schema Scaffolds]: ./assets/ReactSoloProjectDBSchemas.pdf
-[Slides]: ./assets/slides-react-project-kickoff.html
+[Slides]: ./assets/slides.md
 [Road Map]: ./assets/React-Project-Week-Road-Map.pdf
