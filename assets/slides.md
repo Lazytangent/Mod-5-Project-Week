@@ -106,7 +106,12 @@ layout: center
 layout: center
 ---
 
-# MVP Workflow
+# Planning
+
+* What does this feature entail?
+* What should it do?
+* Wireframes
+* "User Stories"
 
 <!-- Importance of planning -->
 
