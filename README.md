@@ -3,6 +3,8 @@
 * [Database Schema Scaffolds]
 * [Slides]
 * [Road Map]
+* [Project List]
+* [Project Expectations]
 
 ### Note
 
@@ -13,3 +15,5 @@
 [Slides]: ./assets/slides.md
 [Road Map]: ./assets/React-Project-Week-Road-Map.pdf
 [Slidev]: https://sli.dev/
+[Project List]: https://open.appacademy.io/learn/js-py---may-2021-cohort-1-online/week-15-may-2021-cohort-1-online/individual-project
+[Project Expectations]: https://open.appacademy.io/learn/js-py---may-2021-cohort-1-online/week-15-may-2021-cohort-1-online/react-solo-project-expectations
