@@ -18,7 +18,6 @@ layout: center
 
 * AirBnB
 * Bandcamp
-* Couchsurfing
 * Eventbrite
 * Evernote
 * Flickr
