@@ -21,5 +21,5 @@
 [Slidev]: https://sli.dev/
 [Project List]: https://open.appacademy.io/learn/js-py---may-2021-cohort-1-online/week-15-may-2021-cohort-1-online/individual-project
 [Project Expectations]: https://open.appacademy.io/learn/js-py---may-2021-cohort-1-online/week-15-may-2021-cohort-1-online/react-solo-project-expectations
-[Copy of the Scorecard]: https://docs.google.com/spreadsheets/d/1PyE9n_ElA_POUO15HIu-V4VscU_qvvroyTrdfQRZj8o/edit#gid=432232862
+[Copy of the Scorecard]: https://docs.google.com/spreadsheets/d/1ExUIXg8n7zo-EN45O3GYnfc4RF5JDQFbKIxcdv5KQSE/edit?usp=sharing
 [Setting Up the Scorecard Walkthrough]: ./SCORECARD_WALKTHROUGH.md
