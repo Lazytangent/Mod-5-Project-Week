@@ -21,7 +21,6 @@ layout: center
 * Eventbrite
 * Evernote
 * Flickr
-* Genius
 * HipCamp
 * Medium
 * Meetup
@@ -47,7 +46,7 @@ layout: center
 # Requirements
 
 * README.md on how to launch
-* User auth
+* User auth, including Demo User
 * 2 features
 * Front-end: React, Redux, vanilla CSS
 * Backend: Express, Sequelize
