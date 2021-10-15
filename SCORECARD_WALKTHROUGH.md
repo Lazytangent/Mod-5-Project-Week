@@ -63,4 +63,4 @@ purple areas on the React Sheet.
 [scorecard-share-button]: ./assets/scorecard-share-button.png
 [scorecard-get-link]: ./assets/scorecard-get-link.png
 [scorecard-update-link-settings]: ./assets/scorecard-update-link-settings.png
-[scorecard-react-sheet]: ./assets/scorecard-react-sheet.png
+[scorecard-react-sheet]: ./assets/scorecard-react-sheet-2.png
