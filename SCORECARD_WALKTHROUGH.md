@@ -58,7 +58,7 @@ purple areas on the React Sheet.
 
 ![scorecard-react-sheet]
 
-[link]: https://docs.google.com/spreadsheets/d/1PyE9n_ElA_POUO15HIu-V4VscU_qvvroyTrdfQRZj8o/edit#gid=432232862
+[link]: https://docs.google.com/spreadsheets/d/1ExUIXg8n7zo-EN45O3GYnfc4RF5JDQFbKIxcdv5KQSE/edit?usp=sharing
 [scorecard-make-a-copy]: ./assets/scorecard-make-a-copy.png
 [scorecard-share-button]: ./assets/scorecard-share-button.png
 [scorecard-get-link]: ./assets/scorecard-get-link.png
