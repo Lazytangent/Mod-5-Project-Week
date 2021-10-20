@@ -17,7 +17,6 @@ layout: center
 # Project List
 
 * AirBnB
-* Bandcamp
 * Eventbrite
 * Evernote
 * Flickr
