@@ -4,7 +4,7 @@ colorSchema: 'dark'
 aspectRatio: '16/10'
 ---
 
-# React Project Kickoff
+# React Project Assessment Kickoff
 
 ---
 layout: center
